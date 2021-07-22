@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Love Chania</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_beaches">Beaches</string>
+    <string name="menu_museums">Museums</string>
+    <string name="menu_archaeological">Archaeological Sites</string>
+    <string name="communicate">Communicate</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="e_mail">e-mail</string>
+    <string name="kissamos">Kissamos</string>
+    <string name="shops_string">A large variety of shops : Jewellery, Clothing, Typical Products, etc.</string>
+    <string name="shops">Shops</string>
+    <string name="Ktel_string">Public bus services Enjoy your trips with Quality, Comfort, Economy, Safety</string>
+    <string name="ktel_bus">Ktel Public Bus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_points_of_interest">Points Of Interest</string>
+    <string name="menu_general_info">General Info</string>
+    <string name="love_chania">Love Chania</string>
+    <string name="reach_chania_string">Chania has its own airport located on the Akrotiri peninsula, which welcomes millions of tourists every year. The major companies flying to are: \n\nDomestic airlines: Aegean and Olympic Air \nInternational airlines: Swiss and Lufthansa \nThe low-cost airline: Ryanair \nThese airlines allow joining Chania with direct flights from major European cities. \nAlso in Crete, are the airports of Heraklion and Sitia. Heraklion airport is at a distance of 145 km from the city of Chania and major companies whose flights are: \nDomestic airlines: Aegean and Olympic Air\n \nInternational airlines: Lufthansa and Air France\n \nThe low-cost airline: Easyjet\n \nSitia Airport is located east of Crete, 272 km from Chania. Here landed primarily the two national airlines Aegean and Olympic Air. For those wishing to reach Chania by boat, the tourist and commercial port of Souda is connected with the port of Piraeus every day thanks to shipping companies: \nBlue Star Ferries and Anek Lines \nOther major ports of Crete are those of Rethymno (64 km) and Heraklion (144 km).</string>
+    <string name="move_in_chania_string">The prefecture of Chania is very large, the northern part is well served by a small road network, while the south has narrow, winding roads and travel from one city to the others is more difficult. To go over small distances a scooter or a bicycle should suffice, but for those wishing to visit the region it is recommended to take a car, a motorcycle (only on major roads), the public transport network Ktel that works very well and allowing you to reach all places or taxi service. In addition, some parts of the south are connected by maritime transport (ferries and hydrofoils) of Anendyk company.</string>
+    <string name="show_in_maps">Show in Maps</string>
+    <string name="MusicAndDance">Social life in Crete is closely linked to music and dance since ancient times. Traditional Cretan dances represent the expression of the courage and dynamic character of the Cretans, and these have been very influenced by the stormy history of the island. Among the most famous are the Siganos, the Pendozalis, The Sirtos, also called Chaniotikos and La Sousta; Men dancing also the Kastrinos or Maleviziotis. The Cretan dances of the modern era still preserve all the passages of their evolution, evident also to the eye of the tourist who is involved in a country party, in a Cretan wedding celebrated in the square, or simply in a place where the spirit ( Κέφι - kèfi), is high enough to entice the dances. In addition to the love for dance, the Cretans are transmitting from father to son and from generation to generation, the musical techni- ques of the Cretan instruments. The most characteristic musical instrument of the Cretan musical tradition is the Lyra, a three-string instrument with a small violin-like bow. There is also the lute (lagouto), an eight-string instrument similar to the guitar. Other traditional instruments are the \"askobandoura\" - similar to a bagpipe - and the \"chabioli\", a wind instrument played by shepherds, alone or connected to the askobandoura.</string>
+    <string name="history">Like the rest of Crete, it was the birthplace of the Minoan civilization, having been for many years a colony, it was part of the Roman Empire of the East under the name of Kydonia. After the 4th Crusade under the Venetian domination it becomes a prosperous center of commerce and a land of long battles with the Turks… Chania was conquered in 1645 and belonging to the Ottoman Empire until 1898, the year when Crete became an autonomous island and its capital Chania, at the end of the Greco-Turkish war. During the Second World War, it collapses under the bombard- ments of the Nazi army, what made popular the famous battle of Crete. After the union of the island with Greece, Chania kept its title as the regional capital until 1971, then attributed to the city of Candia known today as Heraklion.</string>
+    <string name="TypicalProducts">The island of Crete is known worldwide for being one of the best producer of high quality olive oil. The unique climate and the natural way of extraction is the key to its success. Also, in Chania, the production of extra virgin olive oil respects the Cretan traditional production method. Crete and the Peloponnese are the regions with the highest production in Greece. Cretan honey is an absolutely natural product and its treatment is made in a natural way, without high temperatures that destroy vitamins. The biome of the island is rich in endemic plants and especially in aromatic plants such as thyme, offering to Cretan bees their favorite food. All this makes the honey of Crete among the best in the world. Nowadays, Crete cheese production, keeps the traditional recipes of thousands years, in combination with modern methods that ensure quality. Free grazing throughout the year associated with the plants and herbs of Crete give smell, taste and exceptional nutritional value for all its dairy products. To taste absolutely, Myzithra, Graviera, Anthotyro and yogurt.</string>
+    <string name="TypicalFood">For Cretans, food is fundamental, all the dishes arrive at the table at the same time and follow the recipes handed down generation to generation, which makes Crete a very attractive destination for food lovers. His cuisine is simple and based on fresh seasonal products, strictly balanced to ensure a healthy and balanced diet, now known worldwide for its longevity dots. Its roots are very old and despite the fact that Crete has been influenced by many cultures, his soul remains tied to the land products, olive oil and honey. Among the most famous traditional dishes there is: The stew of rabbit - chicken (Stifádo Kunéli - Kotópulo), Eggs with Staka (Avgá me Staka), the Kalitzúnia stuffed with spinach and cheese (Kalitzúnia me spanáki ke tirí), the rooster in red wine (Kókoras Krásato), herbs Avroniés and Vlíta and the intestines of lamb (Gardubákia).</string>
+    <string name="Wine">According to Greek mythology, Dionysus (god of wine), married to Ariadne, daughter of Minos brought in Crete the art of wine making. Since ancient times, Crete was known for its excellent wine, exported all over the world, as evidenced by many ancient writings.Today Crete continues to impress… alone produces over 20% of the country\'s wine and thanks to the many qualities of grapes on the island, can produce a wide selection of fine wines, including : Moskato Spinas, Vilana, Loisima, Acominato, Valetis, Voidomatis and Gemira.</string>
+    <string name="other_activities">Other Activities</string>
+    <string name="OtherActivitiesString">Excursions, Rental, Travel Agencies and Spa</string>
+    <string name="tradition">Tradition</string>
+    <string name="history_amp_tradition"><![CDATA[History & Tradition]]></string>
+    <string name="restaurants_amp_bars"><![CDATA[Restaurants & bars]]></string>
+    <string name="accommodation">Accommodation</string>
+    <string name="lovechaniacreta_gmail_com">lovechaniacreta@gmail.com</string>
+    <string name="KissamosAdv">Discover the beautiful city of Kissamos</string>
+    <string name="cretan_brewery">Cretan Brewery</string>
+    <string name="CretanBreweryAd">Enjoy our delicious and refreshing handcrafted fresh beers</string>
+    <string name="cretan_daily_cruises">Cretan Daily Cruises</string>
+    <string name="CretanDailyCruisesAd">Explore the natural beauty of Gramvousa and Balos with us</string>
+    <string name="map">MAP</string>
+    <string name="take_me_there">Take me there</string>
+    <string name="history_music_dance_food_and_wine">History, Music, Dance, Food and Wine</string>
+    <string name="useful_information_for_your_trip_in_chania">Useful information for your trip in Chania</string>
+    <string name="general_info_home">General Info</string>
+    <string name="points_of_interest_home">Points Of Interest</string>
+    <string name="explore_amazing_places_archaeological_sites_museums_and_churches">Explore amazing Places, archaeological sites, museums and churches</string>
+    <string name="discover_the_most_beautiful_beaches_in_chania_district">Discover the most beautiful beaches in Chania district</string>
+    <string name="beaches_home">Beaches</string>
+    <string name="best_restaurants_bars_beach_bars_cafes_clubs_and_taverns">Best restaurants, Bars, Beach bars, Cafes, Clubs and Taverns</string>
+    <string name="restaurants_amp_bars_home"><![CDATA[Restaurants & Bars]]></string>
+    <string name="suggested_hotels_apartments_and_villas_in_the_district">Suggested Hotels, Apartments and Villas in the district</string>
+    <string name="typical_products">Typical Products</string>
+    <string name="typical_food">Typical Food</string>
+    <string name="wine">Wine</string>
+    <string name="Traditional_dance_music"><![CDATA[Traditional dance & music]]></string>
+    <string name="cretan_music_and_dances">Cretan Music and Dances</string>
+    <string name="historyDesc">history</string>
+    <string name="HistoryTitle">History</string>
+    <string name="phoneicon">phoneIcon</string>
+    <string name="todo">TODO</string>
+    <string name="logo">logo</string>
+    <string name="easter_egg">I can see you\'ve found my little Easter Egg. Good job. My name is Dimitris Eleftheriadis and I am the creator of this app. Nice to meet you!\n\n</string>
+    <string name="easter_egg_2">Facebook: https://www.facebook.com/omgitsele/  \n\nInstagram: https://www.instagram.com/omg.its.ele/</string>
+    <string name="my_crete_tours">My Crete Tours</string>
+
+
+</resources>

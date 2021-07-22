@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.generalinfo.GeneralInfo"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textAlignment="center"
+        android:text="General Information"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="viewStart"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:text="The region of Chania is located west of the island of Crete and covers about 2400 square kilometers of area. Its beautiful sandy beaches, crystal clear sea, lagoons with Caribbean flavors like Elafonissi, the many picturesque villages, important archaeological sites and the splendid city of Chania, make it one of the most fascinating tourist destinations in the world."
+        />
+        <TextView
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:text="Useful phone numbers"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="viewStart"
+            android:padding="10dp"
+            android:autoLink="all"
+            android:textSize="16sp"
+            android:text="Police: (0030) 28210 25700\nTourist Police: (0030) 28210 25931\nEmergencies: 100\nHospital: (0030) 28210 22000\nAmbulance: 166\nFire brigade: 199\nAirport: (0030) 28210 63171\nPort: (0030) 28210 89240\nTourist information: (0030) 28210 36155"
+            />
+
+        <TextView
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:text="How to reach Chania"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="viewStart"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:text="@string/reach_chania_string"
+            />
+        <TextView
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:textAlignment="center"
+            android:text="How to move in Chania"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="viewStart"
+            android:padding="10dp"
+            android:textSize="16sp"
+            android:text="@string/move_in_chania_string"
+            />
+
+
+
+
+    </LinearLayout>
+</ScrollView>

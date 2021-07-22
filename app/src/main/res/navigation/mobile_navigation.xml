@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.ch.myapplication.ui.home.HomeFragment"
+        android:label="@string/love_chania"
+        tools:layout="@layout/fragment_home" />
+
+    <activity
+        android:id="@+id/nav_beaches"
+        android:name="com.ch.myapplication.ui.beaches.BeachesList"
+        android:label="@string/menu_beaches"
+        tools:layout="@layout/fragment_beaches" />
+
+    <activity
+        android:id="@+id/nav_points_of_interest"
+        android:name="com.ch.myapplication.ui.poi.PointsOfInterest"
+        android:label="@string/menu_points_of_interest"
+        tools:layout="@layout/poi_grid" />
+
+    <activity
+        android:id="@+id/nav_general_info"
+        android:name="com.ch.myapplication.ui.generalinfo.GeneralInfo"
+        android:label="General Info"
+        tools:layout="@layout/activity_general_info" />
+
+    <activity
+        android:id="@+id/nav_history_and_tradition"
+        android:name="com.ch.myapplication.ui.tradition.Tradition"
+        android:label="History &amp; Tradition"
+        tools:layout="@layout/activity_tradition" />
+
+    <activity
+        android:id="@+id/nav_rnb"
+        android:name="com.ch.myapplication.ui.rnb.RestaurantBars"
+        android:label="Restaurants &amp; Bars"
+        tools:layout="@layout/activity_restaurant_bars" />
+
+    <activity
+        android:id="@+id/nav_accommodation"
+        android:name="com.ch.myapplication.ui.accommodation.AccommodationList"
+        android:label="Accommodation"
+        tools:layout="@layout/activity_accommodation_list" />
+
+    <activity
+        android:id="@+id/nav_shops"
+        android:name="com.ch.myapplication.ui.shops.ShopsActivity"
+        android:label="Shops"
+        tools:layout="@layout/activity_shops" />
+
+    <activity
+        android:id="@+id/nav_other_activities"
+        android:name="com.ch.myapplication.ui.otheractivities.OtherActivitiesList"
+        android:label="Other Activities"
+        tools:layout="@layout/activity_other_activites_list" />
+
+
+
+
+</navigation>

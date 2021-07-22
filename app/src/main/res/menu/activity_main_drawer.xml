@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_beaches"
+            android:icon="@drawable/ic_menu_beach"
+            android:title="@string/menu_beaches" />
+        <item
+            android:id="@+id/nav_points_of_interest"
+            android:icon="@drawable/points_of_interest_icon"
+            android:title="@string/menu_points_of_interest" />
+        <item
+            android:id="@+id/nav_general_info"
+            android:icon="@drawable/general_info_icon"
+            android:title="@string/menu_general_info" />
+        <item
+            android:id="@+id/nav_history_and_tradition"
+            android:icon="@drawable/ic_tradition"
+            android:title="@string/history_amp_tradition" />
+        <item
+            android:id="@+id/nav_rnb"
+            android:icon="@drawable/ic_rnb"
+            android:title="@string/restaurants_amp_bars" />
+        <item
+            android:id="@+id/nav_accommodation"
+            android:icon="@drawable/ic_accommodation"
+            android:title="@string/accommodation" />
+        <item
+            android:id="@+id/nav_shops"
+            android:icon="@drawable/ic_shops"
+            android:title="@string/shops" />
+        <item
+            android:id="@+id/nav_other_activities"
+            android:icon="@drawable/ic_activities"
+            android:title="@string/other_activities" />
+
+
+    </group>
+
+<!--    <item android:title="@string/communicate">-->
+<!--        <menu>-->
+<!--            <item-->
+<!--                android:id="@+id/nav_share"-->
+<!--                android:icon="@drawable/ic_menu_share"-->
+<!--                android:title="@string/menu_share" />-->
+<!--            <item-->
+<!--                android:id="@+id/nav_send"-->
+<!--                android:icon="@drawable/ic_menu_send"-->
+<!--                android:title="@string/menu_send" />-->
+<!--        </menu>-->
+<!--    </item>-->
+
+</menu>
